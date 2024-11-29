@@ -1,0 +1,39 @@
+li {
+  list-style-type: none;
+}
+
+.icon {
+  width: 20px;
+  margin-left: 3px;
+}
+
+a {
+  text-decoration: none;
+  color: #2c2929;
+}
+
+.adiv {
+  width: 95%;
+  margin: auto;
+  text-align: center;
+}
+
+.tst {
+  font-weight: bold;
+}
+
+@media screen and (max-width: 780px) {
+  a {
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+  }
+
+  .adiv2 {
+    width: 95%;
+  }
+
+  .adiv {
+    display: inline-block;
+  }
+}
