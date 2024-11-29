@@ -6,7 +6,7 @@
 </center>
 </h1>
 
-<p align="center">Nessa tutorial criamos um conversor de moedas <a href="https://laudierstdev.ga">Converte Moedas</a></p>
+<p align="center">Nessa tutorial criamos um conversor de moedas <a href="https://convertemoeda.netlify.app/">Converte Moedas</a></p>
 
 ## 👨🏼‍💻 Instrutor
 
