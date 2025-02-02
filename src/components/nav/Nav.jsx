@@ -44,7 +44,7 @@ const Nav = () => {
         </Link>
         <Link to="/btc" className="ml-1">
           <strong className="flt">
-            <img src="https://imagensemoldes.com.br/wp-content/uploads/2020/09/Moeda-Dinheiro-Bitcoin-PNG-1024x585.png" alt="img" className="img3" />
+            <img src="https://static.news.bitcoin.com/wp-content/uploads/2025/01/6595-bitcoin-mined-by-core-scientific-in-2024.jpg" alt="img" className="img3" />
             -BTC
           </strong>
 
